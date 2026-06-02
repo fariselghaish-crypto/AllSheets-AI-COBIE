@@ -1,0 +1,9 @@
+applymap: False
+filtered.style: False
+openai.Anthropic: False
+OPENAI_API_KEY: True
+external_db_upload: True
+_coordinate_sheet: True
+_attribute_sheet: True
+_connection_sheet: True
+_issue_sheet: True
