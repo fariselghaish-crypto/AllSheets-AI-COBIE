@@ -1,5 +1,5 @@
 """
-app.py
+appNEWALL.py
 COBie Pipeline — Streamlit Web Application
 IFC → AI Enrich → COBie → Validate → Export
 """
